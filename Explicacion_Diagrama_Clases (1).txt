@@ -1,0 +1,5 @@
+En el diagrama encontramos a 1 una super clase y 4 sub clases, en las cuales tenemos 
+a la clase Persona (super clase) y las clases Cliente y ejecutivo tienen una herencia
+directa de la super clase (persona).
+Despues tenemos a la clase Cuenta, que es una composicion de la clase Cliente y finalmente
+la clase CuentaJoven, que es una herencia de la clase Cuenta.
